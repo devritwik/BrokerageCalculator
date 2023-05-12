@@ -1,0 +1,25 @@
+.InputField{
+ 
+    margin: 1rem;
+
+
+}
+.InputField label{
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+.InputField input{
+    width: 80%;
+    height: 2rem;
+    outline: none;
+    border: 1px solid gray;
+
+}
+
+.InputField input:focus{
+   
+    border: 2px solid #397DD1;
+
+
+}

@@ -1,0 +1,15 @@
+.Pnl{
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 1rem;
+    
+}
+
+.Pnl p{
+    display: inline;
+}
+
+.Pnl span{
+    float: right;
+}
+

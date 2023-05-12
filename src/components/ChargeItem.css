@@ -1,0 +1,10 @@
+.ChargeItem{
+    border-bottom: 1px solid gray;
+    padding: 1rem;
+    
+}
+
+.ChargeItem span{
+    float: right;
+    font-weight: 500;
+}
