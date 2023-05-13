@@ -1,6 +1,7 @@
 .InputField{
  
     margin: 1rem;
+    margin-bottom: 2rem;
 
 
 }
@@ -14,6 +15,8 @@
     height: 2rem;
     outline: none;
     border: 1px solid gray;
+    text-align: center;
+    padding: 0.2rem;
 
 }
 
